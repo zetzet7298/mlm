@@ -6600,3 +6600,5 @@ rtrt</textarea>
 2023-09-14 13:51:00,659 [views | DEBUG] Nguyễn Văn b
 2023-09-14 13:51:14,556 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['uZ0VDYQuMF7LHNDlL9FHCqTBEyQKytzUDsRPf0EP8zDYt2sKmQqmYOQEkgylGvn5'], 'name': ['Nguyễn Văn c'], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['3'], 'indirect_user_id': ['1']}>
 2023-09-14 13:51:14,557 [views | DEBUG] Nguyễn Văn c
+2023-09-14 15:58:56,904 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['IwSWbvMEKX5kv7iTkegdcm0KPhdu5yrCRZJQNxAZ6RBxhm7iVV1SyKXNvZV5dAfN'], 'name': ['Nguyễn Văn c'], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['1']}>
+2023-09-14 15:58:56,905 [views | DEBUG] Nguyễn Văn c

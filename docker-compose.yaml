@@ -1,0 +1,58 @@
+version: '3.10'
+networks:
+  backend:
+    name: backend
+    driver: bridge
+
+volumes:
+  mysql-data:
+    driver: local
+services:
+  django:
+    container_name: django
+    hostname: django
+    image: registry.tuoitre.vn/services/django:v1
+    build:
+      context: .
+      dockerfile: docker/api/Dockerfile
+      args:
+        - PYTHON_VERSION=${PYTHON_VERSION}
+        - API_PORT=${API_PORT}
+    ports:
+      - ${API_PORT}:8000
+    volumes:
+      - ../django:/app
+    command: python3 manage.py runserver 0.0.0.0:8000
+    networks:
+      - backend
+    dns:
+      - 8.8.8.8
+#    depends_on:
+#      - rabbitmq
+
+  db:
+    build:
+      context: .
+      dockerfile: docker/db/Dockerfile
+      args:
+        - MYSQL_VERSION=${MYSQL_VERSION}
+    container_name: mysql
+    hostname: db
+    image: registry.tuoitre.vn/services/mysql:v1
+    environment:
+      - MYSQL_DATABASE=${db_database}
+      - MYSQL_DATABASE_TEST=test_${db_database}
+      - MYSQL_ROOT_USERNAME=${db_username}
+#      - MYSQL_PASSWORD=${db_password}
+      - MYSQL_ROOT_PASSWORD=${db_password}
+#      - TZ=${WORKSPACE_TIMEZONE}
+    volumes:
+      - ./docker/db/sql_files:/usr/share/sql_files/
+      - ./docker/db/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
+      - mysql-data:/var/lib/mysql
+    ports:
+      - 3306:3306
+    networks:
+      - backend
+    dns:
+      - 8.8.8.8
