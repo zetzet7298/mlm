@@ -1,0 +1,50 @@
+[
+  {
+    "model": "QLDIEM.DMMH",
+    "fields": {
+      "mamh": "01",
+      "tenmh": "Cơ sở dữ liệu",
+      "sotiet": "45"
+    }
+  },
+  {
+    "model": "QLDIEM.DMMH",
+    "fields": {
+      "mamh": "02",
+      "tenmh": "Trí tuệ nhân tạo",
+      "sotiet": "45"
+    }
+  },
+  {
+    "model": "QLDIEM.DMMH",
+    "fields": {
+      "mamh": "03",
+      "tenmh": "Truyền tin",
+      "sotiet": "45"
+    }
+  },
+  {
+    "model": "QLDIEM.DMMH",
+    "fields": {
+      "mamh": "04",
+      "tenmh": "Đồ họa",
+      "sotiet": "60"
+    }
+  },
+  {
+    "model": "QLDIEM.DMMH",
+    "fields": {
+      "mamh": "05",
+      "tenmh": "Văn phạm",
+      "sotiet": "60"
+    }
+  },
+  {
+    "model": "QLDIEM.DMMH",
+    "fields": {
+      "mamh": "06",
+      "tenmh": "Kỹ thuật lập trình",
+      "sotiet": "45"
+    }
+  }
+]

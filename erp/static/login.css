@@ -1,0 +1,95 @@
+.ng-nh-p-nh-n-s,
+.ng-nh-p-nh-n-s * {
+  box-sizing: border-box;
+}
+.ng-nh-p-nh-n-s {
+  background: #ffffff;
+  width: 1500px;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-188 {
+  background: rgba(41, 177, 113, 0.5);
+  width: 294px;
+  height: 645.28px;
+  position: absolute;
+  left: 1110.51px;
+  top: -97.84px;
+  transform-origin: 0 0;
+  transform: rotate(-51.787deg) scale(1, 1);
+}
+.polygon-1 {
+  position: absolute;
+  left: 1093.36px;
+  top: 1112.94px;
+  transform: translate(-190.58px, -483.21px);
+  overflow: visible;
+}
+.t-n-ng-nh-p {
+  color: #181c32;
+  text-align: left;
+  font: 500 20px "Roboto", sans-serif;
+  position: absolute;
+  left: 985px;
+  top: 284px;
+}
+.m-t-kh-u {
+  color: #181c32;
+  text-align: left;
+  font: 500 20px "Roboto", sans-serif;
+  position: absolute;
+  left: 985px;
+  top: 405px;
+}
+.rectangle-184 {
+  background: #eefbf5;
+  border-radius: 5px;
+  width: 430px;
+  height: 60px;
+  position: absolute;
+  left: 985px;
+  top: 320px;
+}
+.rectangle-185 {
+  background: #eefbf5;
+  border-radius: 5px;
+  width: 430px;
+  height: 60px;
+  position: absolute;
+  left: 985px;
+  top: 441px;
+}
+.group-21 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-186 {
+  background: #29b171;
+  border-radius: 5px;
+  width: 191px;
+  height: 60px;
+  position: absolute;
+  left: 985px;
+  top: 533px;
+}
+
+.group-146 {
+  position: absolute;
+  inset: 0;
+}
+._1-tv-ky-yeu-tuoi-tre-35-nam-1 {
+  opacity: 0.949999988079071;
+  width: 903px;
+  height: 802px;
+  position: absolute;
+  left: 1px;
+  top: -2px;
+}
+.rectangle-263 {
+  width: 236px;
+  height: 87px;
+  position: absolute;
+  left: 985px;
+  top: 145px;
+}

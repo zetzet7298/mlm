@@ -1,0 +1,164 @@
+[
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A01",
+            "mh":"01",
+            "lanthi":1,
+            "diem":3
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A01",
+            "mh":"01",
+            "lanthi":2,
+            "diem":6
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A01",
+            "mh":"02",
+            "lanthi":2,
+            "diem":6
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A01",
+            "mh":"03",
+            "lanthi":1,
+            "diem":5
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A02",
+            "mh":"01",
+            "lanthi":1,
+            "diem":4.5
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A02",
+            "mh":"01",
+            "lanthi":2,
+            "diem":7
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A02",
+            "mh":"03",
+            "lanthi":1,
+            "diem":10
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A02",
+            "mh":"05",
+            "lanthi":1,
+            "diem":9
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A03",
+            "mh":"01",
+            "lanthi":1,
+            "diem":2
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A03",
+            "mh":"01",
+            "lanthi":2,
+            "diem":5
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A03",
+            "mh":"03",
+            "lanthi":1,
+            "diem":2.5
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A03",
+            "mh":"03",
+            "lanthi":2,
+            "diem":4
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"A04",
+            "mh":"05",
+            "lanthi":2,
+            "diem":10
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"B01",
+            "mh":"01",
+            "lanthi":1,
+            "diem":7
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"B01",
+            "mh":"03",
+            "lanthi":1,
+            "diem":2.5
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"B01",
+            "mh":"03",
+            "lanthi":2,
+            "diem":5
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"B02",
+            "mh":"02",
+            "lanthi":1,
+            "diem":6
+        }
+    },
+    {
+        "model": "QLDIEM.KETQUA",
+        "fields":{
+            "sv":"B02",
+            "mh":"04",
+            "lanthi":1,
+            "diem":10
+        }
+    }
+]

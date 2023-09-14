@@ -1,0 +1,38 @@
+[
+    {
+      "model": "QLDIEM.DMKHOA",
+      "fields": {
+        "makhoa": "AV",
+        "tenkhoa": "Anh Văn"
+      }
+    },
+    {
+      "model": "QLDIEM.DMKHOA",
+      "fields": {
+        "makhoa": "TH",
+        "tenkhoa": "Tin Học"
+      }
+    },
+    {
+      "model": "QLDIEM.DMKHOA",
+      "fields": {
+        "makhoa": "TR",
+        "tenkhoa": "Triết"
+      }
+    },
+    {
+      "model": "QLDIEM.DMKHOA",
+      "fields": {
+        "makhoa": "VL",
+        "tenkhoa": "Vật Lý"
+      }
+    },
+    {
+      "model": "QLDIEM.DMKHOA",
+      "fields": {
+        "makhoa": "HH",
+        "tenkhoa": "Hóa học"
+      }
+    }
+  ]
+  

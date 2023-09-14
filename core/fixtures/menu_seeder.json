@@ -1,0 +1,20 @@
+[
+  {
+    "model": "core.Menu",
+    "fields": {
+      "id": 1,
+      "name": "Khách hàng",
+      "parent_id": null,
+      "url": ""
+    }
+  },
+  {
+    "model": "core.Menu",
+    "fields": {
+      "id": 2,
+      "name": "Multi Level Model",
+      "parent_id": 1,
+      "url": "/multi-level/"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "model": "QLDIEM.DMSV",
+        "fields": {
+            "masv":"A01",
+            "hosv":"Nguyễn thị",
+            "tensv":"Hải",
+            "phai":true,
+            "ngaysinh":"1993-02-23",
+            "noisinh":"Hà Nội",
+            "khoa_id":"TH",
+            "hocbong":"130000"
+        }
+    },
+    {
+        "model": "QLDIEM.DMSV",
+        "fields": {
+            "masv":"A02",
+            "hosv":"Trần văn",
+            "tensv":"Chính",
+            "phai":false,
+            "ngaysinh":"1992-12-24",
+            "noisinh":"Bình Định",
+            "khoa_id":"VL",
+            "hocbong":"150000"
+        }
+    },
+    {
+        "model": "QLDIEM.DMSV",
+        "fields": {
+            "masv":"A03",
+            "hosv":"Lê thu bạch",
+            "tensv":"Yến",
+            "phai":true,
+            "ngaysinh":"1993-02-21",
+            "noisinh":"Tp HCM",
+            "khoa_id":"TH",
+            "hocbong":"170000"
+        }
+    },
+    {
+        "model": "QLDIEM.DMSV",
+        "fields": {
+            "masv":"A04",
+            "hosv":"Trần anh",
+            "tensv":"Tuấn",
+            "phai":false,
+            "ngaysinh":"1994-12-20",
+            "noisinh":"Hà Nội",
+            "khoa_id":"AV",
+            "hocbong":80000
+        }
+    },
+    {
+        "model": "QLDIEM.DMSV",
+        "fields": {
+            "masv":"B01",
+            "hosv":"Trần thanh",
+            "tensv":"Mai",
+            "phai":true,
+            "ngaysinh":"1993-08-12",
+            "noisinh":"Hải Phòng",
+            "khoa_id":"TR",
+            "hocbong":"0"
+        }
+    },
+    {
+        "model": "QLDIEM.DMSV",
+        "fields": {
+            "masv":"B02",
+            "hosv":"Trần thị thu",
+            "tensv":"Thủy",
+            "phai": true,
+            "ngaysinh":"1994-01-02",
+            "noisinh":"Tp HCM",
+            "khoa_id":"AV",
+            "hocbong":0
+        }
+    }
+]
