@@ -6602,3 +6602,37 @@ rtrt</textarea>
 2023-09-14 13:51:14,557 [views | DEBUG] Nguyễn Văn c
 2023-09-14 15:58:56,904 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['IwSWbvMEKX5kv7iTkegdcm0KPhdu5yrCRZJQNxAZ6RBxhm7iVV1SyKXNvZV5dAfN'], 'name': ['Nguyễn Văn c'], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['1']}>
 2023-09-14 15:58:56,905 [views | DEBUG] Nguyễn Văn c
+2023-09-15 08:44:24,241 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['7NtLi2l10v0In2tfn62Citl5bdRNPB2LggkFU49mmpwV9hiEYNNhERi8RVzoXDQW'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['']}>
+2023-09-15 08:44:24,243 [views | DEBUG] Nguyễn Văn 
+2023-09-15 08:44:35,524 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['DF55oGzyuAp4dFHidn3mLALCKbmtp3nqM8WZ0InTQuVhZUwHO4O17YIFqT44x5bB'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['']}>
+2023-09-15 08:44:35,524 [views | DEBUG] Nguyễn Văn 
+2023-09-15 08:50:12,936 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['W7R2YBsUKtIJfPSb8pjMMlpjILzahLrl5AIWADgf6neW14HAJ64r8JmmothLpNfw'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['']}>
+2023-09-15 08:50:12,936 [views | DEBUG] Nguyễn Văn 
+2023-09-15 08:53:05,337 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['awaiFeMS6f2RhCtoEkZRgyjQfNUkueNzjZ1chgAds9y43RiNf1KwCWgTVvCVCgBK'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['']}>
+2023-09-15 08:53:05,337 [views | DEBUG] Nguyễn Văn 
+2023-09-15 08:53:14,804 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['1upK6tH8U3djVfMldyfDY3f2s2nTg48eaXgEIvvtgXJwHuBKOf0ikrc58K5uo6Wp'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['2'], 'indirect_user_id': ['']}>
+2023-09-15 08:53:14,804 [views | DEBUG] Nguyễn Văn 
+2023-09-15 08:53:54,347 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['cqDs0ccH6Q1xMwtODOv3WA8fdQWuszdzlTumCe02sKxKyLidevgIiY5iTyE5AB1K'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['2'], 'indirect_user_id': ['']}>
+2023-09-15 08:53:54,347 [views | DEBUG] Nguyễn Văn 
+2023-09-15 08:54:06,551 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['d1st1jr8Df76w7nlKKnUHmdWBU9Jh5eVmujnDlftZ9DjimcKlr8z3KaZhCRkp726'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['2'], 'indirect_user_id': ['']}>
+2023-09-15 08:54:06,551 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:06:58,795 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['gZK4LgMGN1lAeZhDZMhTWGwUkpeRbQgWpsBYniA19VRN0e62At2yi4tX07WsjS47'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['2'], 'indirect_user_id': ['']}>
+2023-09-15 09:06:58,795 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:07:05,912 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['CqXyIIUsD3AFoWo4pl6IwXmqC3Vd8JETLTOskKINZX6Sabdt02RnSljtiLDOgLs4'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['4'], 'indirect_user_id': ['']}>
+2023-09-15 09:07:05,912 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:07:12,835 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['5XXki5FikQCC33YpTVgVTBkssJvJeNlWeqOeU7tDGK8PPiNOuC1AfZhv8rdkmP97'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['4'], 'indirect_user_id': ['']}>
+2023-09-15 09:07:12,835 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:07:22,484 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['fDR4j56FRWMlGeXFrmScGdbB8FHY9IiLo6IYV7U0dQiystM423DR2B8EOnpzhK6W'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': [''], 'indirect_user_id': ['']}>
+2023-09-15 09:07:22,484 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:07:26,318 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['B5qQne0LuZPGx0jtaNVZy7WQczRPvzoQKyhKZgO6QTlTjf8SLuGEUvTTShzqDBc1'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['']}>
+2023-09-15 09:07:26,318 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:07:29,390 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['8jDJNYGKZphLT7ytyV91YEOQ844AgxhWhMuDp0u5ljNYFmnS9CUGk2LTOMMboz57'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['2'], 'indirect_user_id': ['']}>
+2023-09-15 09:07:29,390 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:07:32,608 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['vGrr0fkE3Uocy2Ubafk0A1usQ8ZUTLRZE9ilCh8ZpOUpkhJALW5FWprvwQHv1NFa'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['']}>
+2023-09-15 09:07:32,608 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:07:35,526 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['opzSIDxfgqWou1TLVFgQcdKgfSEa2KV8xSqMkFlACksBggIawm1vyBHjVAmLaMJj'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['1'], 'indirect_user_id': ['']}>
+2023-09-15 09:07:35,526 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:08:07,861 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['Yhr7MyPAWJo5ZNGKlDzadIR2kjnBiEMU7Ki1oADViDUiL2v9WkkPz6O5015cqGA5'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['2'], 'indirect_user_id': ['']}>
+2023-09-15 09:08:07,861 [views | DEBUG] Nguyễn Văn 
+2023-09-15 09:08:23,063 [views | DEBUG] <QueryDict: {'csrfmiddlewaretoken': ['39nVcvYZAKIBE3OyViBCdpaasN1a3y41cCePOxMkWEeOqiDXwZmhzN7d8vJLbASc'], 'name': ['Nguyễn Văn '], 'email': ['nguyenvan@gmail.com'], 'password1': ['123'], 'password2': ['456'], 'direct_user_id': ['5'], 'indirect_user_id': ['']}>
+2023-09-15 09:08:23,063 [views | DEBUG] Nguyễn Văn 
